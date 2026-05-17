@@ -25,7 +25,7 @@ PAPER_TRADING = False        # 🔴 LIVE TRADING — Opera con dinero real
 # ═══════════════════════════════════════════════════════════════════
 # CAPITAL Y RIESGO
 # ═══════════════════════════════════════════════════════════════════
-INITIAL_CAPITAL = 100.0               # Capital de prueba real
+INITIAL_CAPITAL = 600               # Capital de prueba real
 RISK_PER_TRADE_PCT = 0.015            # 1.5% por trade = $1.50
 MAX_DAILY_DRAWDOWN_PCT = 0.05         # 5% pérdida máxima/día = $5
 MAX_CONSECUTIVE_LOSSES = 3             # Cooldown después de 3 pérdidas
